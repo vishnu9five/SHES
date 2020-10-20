@@ -1,0 +1,15 @@
+{
+  "name": "shes",
+  "version": "1.0.0",
+  "description": "secondhand ES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./sass/style.scss style.css --watch"
+  },
+  "author": "vishnu",
+  "license": "ISC",
+  "dependencies": {
+    "ruby": "^0.6.1"
+  }
+}
